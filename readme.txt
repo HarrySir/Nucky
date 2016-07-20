@@ -1,1 +1,1 @@
-用于放简历和一些小demo的仓库
+A Repository For Resume & Prj_Demo
